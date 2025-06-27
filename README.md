@@ -54,7 +54,7 @@ No `application.yml`, foram configuradas:
 
 A documentação da API está disponível via Swagger:
 
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui.html (OBVIAMENTE É SÓ UM EXEMPLO)
 
 yaml
 Copiar
